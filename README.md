@@ -4,7 +4,7 @@ Clona el repositorio:
 
 git clone https://github.com/juanwallss/tarea1u4.git
 
-cd moodle2
+cd tarea1u4
 
 Instala las dependencias:
 
